@@ -3,3 +3,7 @@ pytest
 black
 wikipedia
 fire
+fastapi
+pydantic
+uvicorn[standard]
+urllib3<2
